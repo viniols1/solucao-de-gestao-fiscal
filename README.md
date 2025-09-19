@@ -20,9 +20,7 @@ O projeto foi desenvolvido em um tema escuro (dark mode), o que otimiza a experi
 
 ## 💻 Como Executar o Projeto
 
-1.  Clone o repositório em sua máquina:
-    `git clone [link-do-seu-repositorio]`
-2.  Abra o arquivo `index.html` em seu navegador web.
+1. Abra o arquivo `index.html` em seu navegador web.
 
 ## 👨‍💻 Autor
 
